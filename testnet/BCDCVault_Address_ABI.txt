@@ -1,0 +1,8 @@
+(Please note that these addresses and ABI files are related to Ropsten Testnet Only, Do not try to load with Mainnet. MyEtherWallet is Recommended)
+
+Address
+0x0c102befe6b58dbf76570c70c73d56c028e2a379
+
+ABI
+
+[ { "constant": true, "inputs": [], "name": "isBCDCVault", "outputs": [ { "name": "", "type": "bool" } ], "payable": false, "type": "function" }, { "constant": true, "inputs": [], "name": "numBlocksLockedDev", "outputs": [ { "name": "", "type": "uint256" } ], "payable": false, "type": "function" }, { "constant": true, "inputs": [], "name": "unlockedAllTokensForFounders", "outputs": [ { "name": "", "type": "bool" } ], "payable": false, "type": "function" }, { "constant": true, "inputs": [], "name": "unlockedAllTokensForDev", "outputs": [ { "name": "", "type": "bool" } ], "payable": false, "type": "function" }, { "constant": false, "inputs": [], "name": "unlockForFounders", "outputs": [], "payable": false, "type": "function" }, { "constant": true, "inputs": [], "name": "numBlocksLockedFounders", "outputs": [ { "name": "", "type": "uint256" } ], "payable": false, "type": "function" }, { "constant": false, "inputs": [], "name": "unlockForDevelopment", "outputs": [], "payable": false, "type": "function" }, { "inputs": [ { "name": "_bcdcMultisig", "type": "address" } ], "payable": false, "type": "constructor" }, { "payable": true, "type": "fallback" } ]

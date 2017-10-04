@@ -1,0 +1,8 @@
+(Please note that these addresses and ABI files are related to Ropsten Testnet Only, Do not try to load with Mainnet. MyEtherWallet is Recommended)
+
+Address
+0x2048e130d1736ea3f54b7469b3d1516b2ca2fbf2
+
+ABI
+
+[ { "constant": false, "inputs": [ { "name": "claimAddress", "type": "address" }, { "name": "claimTokens", "type": "uint256" } ], "name": "claimToken", "outputs": [], "payable": false, "type": "function" }, { "constant": true, "inputs": [], "name": "owner", "outputs": [ { "name": "", "type": "address" } ], "payable": false, "type": "function" }, { "constant": true, "inputs": [], "name": "totalClaimed", "outputs": [ { "name": "", "type": "uint256" } ], "payable": false, "type": "function" }, { "constant": false, "inputs": [ { "name": "newOwner", "type": "address" } ], "name": "transferOwnership", "outputs": [], "payable": false, "type": "function" }, { "inputs": [ { "name": "_bcdcToken", "type": "address" } ], "payable": false, "type": "constructor" }, { "anonymous": false, "inputs": [ { "indexed": true, "name": "claimAddress", "type": "address" }, { "indexed": false, "name": "tokens", "type": "uint256" } ], "name": "Claimed", "type": "event" } ]
