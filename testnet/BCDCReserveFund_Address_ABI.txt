@@ -1,7 +1,7 @@
 (Please note that these addresses and ABI files are related to Ropsten Testnet Only, Do not try to load with Mainnet. MyEtherWallet is Recommended)
 
 Address
-0x2048e130d1736ea3f54b7469b3d1516b2ca2fbf2
+0x333c03fa12e1bdffc00834930b0b67eaf3a6db28
 
 ABI
 
